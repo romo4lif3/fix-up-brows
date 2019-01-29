@@ -1,0 +1,26 @@
+.card-header {
+    text-align: center;
+}
+
+body {
+    background-image: url("https://www.relias.com/hs-fs/hubfs/reliaslearning-April2016/texture-teal.png?t=1530905495284&width=1097&name=texture-teal.png");
+    background-attachment: fixed;
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#pros {
+    float: left;
+}
+#cons{
+    float: left;
+}
+img {
+    float: left;
+    margin-right: 2%;
+}
+footer{
+    text-align: center;
+    float: left;
+}
